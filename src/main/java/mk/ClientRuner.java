@@ -1,6 +1,6 @@
 package mk;
 
-public class Client {
+public class ClientRuner {
 
     public static void main(String[] args) {
 
